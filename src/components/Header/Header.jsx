@@ -1,12 +1,13 @@
 import React from 'react';
 import './Header.css';
+import myImage from './images/Group 220.png';
 
 const Header = () => {
   return (
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
     <div className="container-fluid">
       <a className="navbar-brand" href="#">
-      <img src="/UI-Task/images/Group 220.png" alt="Logo" />
+      <img src="{myImage}" alt="Logo" />
       </a>
       <button
         className="navbar-toggler"
