@@ -14,7 +14,7 @@ const Post = ({ user, content, image, likes, comments }) => {
         <h5 className="card-title">Megan James</h5>
         <h6 className="card-subtitle mb-2 text-muted">Sheikh Zayed Road · 5 mins ago</h6>
         <img
-          src="/images/Frame 146.png"
+          src="./images/Frame 146.png"
           alt="Post"
           className="img-fluid rounded"
         /><span>Likes: 8013290</span>
