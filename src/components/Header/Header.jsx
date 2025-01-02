@@ -6,7 +6,7 @@ const Header = () => {
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
     <div className="container-fluid">
       <a className="navbar-brand" href="#">
-      <img src="./images/Group 220.png" alt="Logo" />
+      <img src="/UI-Task/images/Group-220.png" alt="Logo" />
       </a>
       <button
         className="navbar-toggler"
@@ -30,7 +30,7 @@ const Header = () => {
             placeholder="Search here"
             aria-label="Search"
           />
-          <img src="./images/Group 73.png" alt="Logo" style={{marginLeft: "30px", width: "40px"}} />
+          <img src="./images/Group-73.png" alt="Logo" style={{marginLeft: "30px", width: "40px"}} />
         </form>
       </div>
     </div>
