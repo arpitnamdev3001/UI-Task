@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://arpitnamdev3001.github.io/UI-Task"
+  "homepage": "https://arpitnamdev3001.github.io/UI-Task/"
   "scripts": {
     "dev": "vite",
     "build": "vite build",
