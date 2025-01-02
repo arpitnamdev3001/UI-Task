@@ -6,7 +6,7 @@ const Header = () => {
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
     <div className="container-fluid">
       <a className="navbar-brand" href="#">
-      <img src="/images/Group 220.png" alt="Logo" />
+      <img src="/UI-Task/images/Group 220.png" alt="Logo" />
       </a>
       <button
         className="navbar-toggler"
