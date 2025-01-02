@@ -30,7 +30,7 @@ const Header = () => {
             placeholder="Search here"
             aria-label="Search"
           />
-          <img src="/images/Group 73.png" alt="Logo" style={{marginLeft: "30px", width: "40px"}} />
+          <img src="/UI-Task/images/Group 73.png" alt="Logo" style={{marginLeft: "30px", width: "40px"}} />
         </form>
       </div>
     </div>
