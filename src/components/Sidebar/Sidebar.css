@@ -1,3 +1,7 @@
 .post-filter {
     display: flex;
 }
+
+.highlighted {
+    background-color: #f96772;
+  }
