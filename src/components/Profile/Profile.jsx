@@ -7,7 +7,7 @@ const Profile = () => {
             <div className="first-div card">
         <div className="profile-card">
       <div className="profile-image">
-        <img src="/UI-Task/images/Group 74.png" alt="Profile Picture" />
+        <img src="/UI-Task/images/Group.74.png" alt="Profile Picture" />
       </div>
       <div className="profile-info">
         <h2>Rick Grimes</h2>
